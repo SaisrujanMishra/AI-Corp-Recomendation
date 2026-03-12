@@ -1,10 +1,10 @@
  Crop Recommendation System Using Machine Learning
-📌 Project Overview
+Project Overview
 The Crop Recommendation System is an intelligent machine learning-based solution designed to help farmers and agricultural professionals make informed crop selection decisions. By analyzing environmental and soil conditions such as soil type, climate, rainfall, temperature, humidity, and pH levels, the system recommends the most suitable crops for a particular region or farm.
 
 Leveraging historical data and predictive modeling, the system optimizes crop yield and promotes sustainable farming practices.
 
-🌟 Key Features
+Key Features-
 User Input Interface: Accepts environmental and soil parameters such as pH, nitrogen, potassium, humidity, and temperature.
 
 Data Preprocessing: Handles missing values, scales numerical data, and encodes categorical variables for model compatibility.
